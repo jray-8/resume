@@ -1,0 +1,5 @@
+Old/
+Templates/
+
+# Ignore Microsoft Office temp/lock files
+~$* 
